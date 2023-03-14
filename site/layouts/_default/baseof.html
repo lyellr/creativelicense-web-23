@@ -1,17 +1,63 @@
 <!doctype html>
-<html lang="{{ $.Site.Language.Lang }}">
-  {{ partial "head" . }}
-  <body class="sans-serif">
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang=""> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8" lang=""> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang=""> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang=""> <!--<![endif]-->
+    <head>
 
-    {{ block "header" . }}{{ partial "nav" . }}{{end}}
+    <script type="text/javascript">
+        var loadingFlags=[1,1];
+        function setLoadingFlags(i){loadingFlags[i]=0;}
+    </script>
 
-    {{ block "main" . }}{{ end }}
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-GY68GD29F2"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
 
-    {{ block "footer" . }}{{ partial "footer" . }}{{end}}
+      gtag('config', 'G-GY68GD29F2');
+    </script>
 
-    {{ $script := .Site.Data.webpack.main }}
-    {{ with $script.js }}
-      <script src="{{ relURL . }}"></script>
-    {{ end }}
-  </body>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+        
+    <meta name="author" content="{{ .Site.Data.seo.site_author }}" />
+    <meta name="description" content="{{ .Site.Data.seo.site_description }}" />
+    <meta property="og:url" content="http://www.creativelicense.com" />
+    <meta property="og:description" content="{{ .Site.Data.seo.site_description }}" />
+    <meta property="og:title" content="{{ .Site.Data.seo.site_author }}" />
+    <meta property="og:image" content="{{ .Site.Data.seo.ios_image }}" />
+
+    <link href="https://fonts.cdnfonts.com/css/manjari" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/playfair-display" rel="stylesheet">
+    <link href="https://fonts.cdnfonts.com/css/rajdhani" rel="stylesheet">
+
+    {{ $style := resources.Get "sass/main.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $style.Permalink }}">
+
+    {{ $lity := resources.Get "sass/lity.min.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+    <link rel="stylesheet" href="{{ $lity.Permalink }}">
+
+    <!-- OG HERE -->
+
+    <title>{{ .Title }}</title>
+
+    <!--<script src={{ "js/vendor/modernizr-2.8.3-respond-1.4.2.min.js" | relURL }}></script>-->
+
+    {{ block "head" . }}{{end}}
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+  </head>
+
+  {{ block "main" . }}{{end}}
+
 </html>

@@ -1,7 +1,5 @@
 # Hugo template for Netlify CMS with Netlify Identity
 
-This is a small business template built with [Hugo](https://gohugo.io) and [Netlify CMS](https://github.com/netlify/netlify-cms), designed and developed by [Darin Dimitroff](https://twitter.com/deezel), [spacefarm.digital](https://www.spacefarm.digital).
-
 ## Getting started
 
 Use our deploy button to get your own copy of the repository. 

@@ -1,0 +1,1198 @@
+---
+spots:
+- name: Groundhog Day
+  client: Jeep
+  video: https://creativelicense-web.s3.amazonaws.com/SOH_Settlement_1800_30_OLV (1)20221115.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/groundhog20210510.jpg
+  box: https://creativelicense.box.com/s/i60o7w4z8d23iiiv71yfdosd7hu4vhqs
+  agency: Highdive
+  cl_role: ''
+  talent: Bill Murray, Brian Doyle-Murray, Stephen Tobolowsky
+  music: Sonny and Cher “I Got You Babe”
+  ip: Groundhog Day
+- name: Sam's Club VIP
+  client: Sam's Club
+  agency: VMLY&R
+  talent: Kevin Hart
+  music: ''
+  ip: ''
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/WGST0034000H_SkipTheLineLikeAVIP_REV1_30_HD_NoSlate
+    (1) (1)20220215.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/kh20220215.jpeg
+- name: Jersey
+  client: Jersey Mike's
+  agency: Highdive
+  talent: Danny DeVito
+  music: ''
+  ip: ''
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/Jersey_Mikes_TV_Emotions_Jealousy30_JERS0001000H_UNSLATED
+    (1)20221115.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/DD ss20221115.jpg
+- name: Jeter
+  client: Jeep Grand Wagoneer
+  agency: Highdive
+  talent: Derek Jeter, Hannah Jeter
+  music: ''
+  ip: ''
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/FCA_Jeep_2022Wagoneer_EyesWideOpen_30_16x9_YT_CDNJWS22530H_unslated
+    (1)20221115.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screenshot 2023-01-31 16045720230131.jpg
+- name: Office Space
+  client: Walmart
+  agency: Dept W
+  talent: Gary Cole, Diedrich Bader, Michael Bolton, Ajay Naidu
+  music: Geto Boys "Damn It Feels Good To Be A Gangsta;" Michael Bolton "How Am I
+    Supposed To Live Without You"
+  ip: Office Space
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/WGPU2948000H_N_FY23 AE MASTHEADS_CASE
+    OF THE MONDAYS_AMAS_GM 60-220221115.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/wmos120221115.jpg
+- name: Jackie Childs
+  client: Synder's of Hanover
+  agency: Saatchi & Saatchi
+  talent: Phil Morris
+  music: ''
+  ip: Seinfeld
+  cl_role: ''
+  video: ''
+  image: https://creativelicense-web.s3.amazonaws.com/jcj20221115.jpg
+- name: Wild World
+  client: INFINITI
+  agency: Publicis
+  talent: ''
+  music: Yusuf / Cat Stevens "Wild World"
+  ip: ''
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/CINB0045000H_INFN QX60 Wild
+    World_60_Internal Viewing_Unslated20220714.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screenshot 2022-07-14 16255120220714.jpg
+- name: Rocket x Barbie
+  client: Rocket Mortgage
+  agency: Highdive
+  talent: Anna Kendrick
+  music: ''
+  ip: Barbie, Masters of the Universe
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/CPGO0342000H Boban Bag with
+    TikTok 30 Innovid (2)20220714.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Barbie Rocket20220215.jpg
+- name: What's Gotten Into Lindsay
+  client: Planet Fitness
+  agency: Publicis NA
+  talent: Lindsay Lohan, William Shatner, Danny Trejo,  Dennis Rodman, Oneya Johnson,
+    Buzzy Cohen
+  music: George Baker Selection "Little Green Bag"
+  ip: Jeopardy!
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/SB_30_For_Just_10_C0820220215.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/PFLL20220215.jpg
+- name: TUMS REO
+  client: TUMS
+  agency: CaST
+  talent: ''
+  music: REO Speedwagon "Can't Fight This Feeling"
+  ip: ''
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/Tums_TumsCamLoveFoodBack_Airport_30Sec_16x9_DVO20221115.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/tums20221115.jpg
+- name: Black Wall Street
+  client: Citi
+  agency: Publicis
+  talent: Brian Tyree Henry
+  music: ''
+  ip: ''
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/Citi New Black Wall Street 30
+    Citi Brian Tyree Henry20220714.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screenshot 2022-07-14 16170120220714.jpg
+- name: Boban Bag
+  client: Goldfish
+  agency: Saatchi & Saatchi NY
+  talent: Boban Marjanović, Tobias Harris
+  music: ''
+  ip: ''
+  cl_role: ''
+  video: ''
+  image: https://creativelicense-web.s3.amazonaws.com/Screenshot 2022-07-14 16452820220714.jpg
+- name: Stanley Cup
+  client: NHL
+  agency: Highdive
+  talent: ''
+  music: Bob Dylan "The Times They Are A-Changin'"
+  ip: ''
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/Handoff_60_BRDSCPT00024H_Bally
+    (2)20230209.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screenshot 2022-07-14 16314220220714.jpg
+- name: TikTok
+  client: TikTok
+  agency: Publicis NY
+  talent: Martha Stewart
+  music: ''
+  ip: ''
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/TikTok Martha20220921.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/martha20220921.jpg
+- name: Eat Bright
+  client: Well Yes!
+  video: https://creativelicense-web.s3.amazonaws.com/Well Yes!20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Mindy-Well-Yes-Cluck-Yeah20210512.jpeg
+  box: https://creativelicense.box.com/s/2fl85gauv29r1vlncwvbwvzwl773khit
+  agency: Leo Burnett
+  cl_role: ''
+  talent: Mindy Kaling
+  music: ''
+  ip: ''
+- name: I'm A Ram
+  client: Ram
+  video: https://creativelicense-web.s3.amazonaws.com/RAM (Stapleton)_120210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/imaram20210512.jpg
+  box: https://creativelicense.box.com/s/biflz99mqiu5qu6olz9yhutt6pxp29kg
+  agency: Highdive
+  cl_role: ''
+  talent: Chris Stapleton
+  music: Chris Stapleton "I'm A Ram"
+  ip: ''
+- name: Earth Odyssey
+  client: Jeep
+  video: https://creativelicense-web.s3.amazonaws.com/JEEP_Earth_Odyssey_60_CAPTIONS_v3
+    (1)20220215.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2022-02-15 at 1.46.06
+    PM20220215.jpg
+  box: https://creativelicense.box.com/s/su0pz13cxfrzvi6046ehqpmulnpmfa11
+  agency: Highdive
+  cl_role: ''
+  talent: ''
+  music: Also Sprach Zarathustra
+  ip: '2001: A Space Odyssey (dir. Stanley Kubrick)'
+- name: Mike Brought Them
+  client: Mike's Hard
+  video: https://creativelicense-web.s3.amazonaws.com/Mikes Hard20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/mike20210512.jpg
+  box: https://creativelicense.box.com/s/5azxybcp9vcubm9tijonin61o8yxswdd
+  agency: Work In Progress
+  cl_role: ''
+  talent: Mike Tyson
+  music: ''
+  ip: ''
+- name: Home
+  client: Rocket Mortgage
+  video: https://creativelicense-web.s3.amazonaws.com/home20210510.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/rocket20210510.jpg
+  box: https://creativelicense.box.com/s/h3zpoipnplaiulittmrej6zqjqxzu36g
+  agency: Highdive
+  cl_role: ''
+  talent: Jason Momoa, Lisa Bonet
+  music: ''
+  ip: ''
+- name: Certain Is Better
+  client: Rocket Mortgage
+  video: https://creativelicense-web.s3.amazonaws.com/certainisbetter20210510.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/slider220210510.jpg
+  box: https://creativelicense.box.com/s/6tarp8eobyf00tp4931zbqhvds3nyvis
+  agency: Highdive
+  talent: Tracy Morgan, Dave Bautista, Liza Koshy, Joey Bosa
+  cl_role: ''
+  music: ''
+  ip: ''
+- name: Struck Out
+  client: Citi
+  agency: Publicis NA
+  talent: ''
+  music: Tones and I "Fly Away (Alternate Version)
+  ip: ''
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/FNEN0527000H_StruckOut_US_30_TV_STEREO
+    (1)20220222.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/ti20220222.jpg
+- name: Walmart Sustainability
+  client: Walmart
+  agency: FCB
+  talent: ''
+  music: Michael Kiwanuka "Home Again"
+  ip: ''
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/WGFC0942000H_N_FY23 BRAND REPUTATION_SUSTAINABILITY
+    ANTHEM - TODAY_GM 3020220222.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/mk20220222.jpg
+- name: Dish Dodgers
+  client: Delta Faucet
+  video: https://creativelicense-web.s3.amazonaws.com/Delta (Dish Dodgers)_120210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/delta120210512.jpg
+  box: https://creativelicense.box.com/s/t53sbhsrwymo88e4k448xjm768pj3l3g
+  agency: Barkley
+  cl_role: ''
+  talent: ''
+  music: Motley Crue "Time For Change"
+  ip: ''
+- name: Bring the Spring
+  client: Walmart (Wilson Pickett)
+  video: https://creativelicense-web.s3.amazonaws.com/Walmart (Wilson Pickett)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/wmwp20210730.jpg
+  box: https://creativelicense.box.com/s/k7uu6tzs6znirlu3165qeu32yqqtykha
+  agency: Dept W Publicis
+  cl_role: ''
+  talent: ''
+  music: Wilson Pickett "Hello Sunshine"
+  ip: ''
+- name: The Difference
+  client: GNC
+  video: https://creativelicense-web.s3.amazonaws.com/GNC_120210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/gnc_diff20210512.jpg
+  box: https://creativelicense.box.com/s/bfb3ew2zkyeeko74t741i4yoonmgi646
+  agency: Red Antler
+  cl_role: ''
+  talent: ''
+  music: Mawre “Unstoppable”
+  ip: ''
+- name: 'Pour It On Thick: Disco'
+  client: Prego
+  video: https://creativelicense-web.s3.amazonaws.com/Prego20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/cecily20210512.jpg
+  box: https://creativelicense.box.com/s/xc94zrbps9x58jnqxymw502dmqnd5piw
+  agency: Leo Burnett
+  cl_role: ''
+  talent: Cecily Strong
+  music: ''
+  ip: ''
+- name: Everybody In
+  client: General Motors
+  video: https://creativelicense-web.s3.amazonaws.com/General Motors20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/gm20210512.jpg
+  box: https://creativelicense.box.com/s/xwu3zuj0t0hn5u4bcaxb9956k4ymogv5
+  agency: Commonwealth // McCann
+  cl_role: ''
+  talent: Cody Rigsby, Erin Ashley Simon, Bethany Hamilton
+  music: FNDTY "Never Die"
+  ip: ''
+- name: Crowded Table
+  client: Campbells
+  video: https://creativelicense-web.s3.amazonaws.com/Campbells20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/cambells20210512.jpg
+  box: https://creativelicense.box.com/s/baagzderco0z76d9pltb2p39sd8id3pf
+  agency: Leo Burnett
+  cl_role: ''
+  talent: ''
+  music: The Highwomen “Crowded Table”
+  ip: ''
+- name: Heroes
+  client: Walmart
+  video: https://creativelicense-web.s3.amazonaws.com/Walmart (Heroes)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/heros20210512.jpg
+  box: https://creativelicense.box.com/s/lo6tmy9dff3x1nqcmft2z89ecspswc61
+  agency: FCB
+  cl_role: ''
+  talent: ''
+  music: David Bowie "Heroes"
+  ip: ''
+- name: Famous Visitors
+  client: Walmart
+  video: https://creativelicense-web.s3.amazonaws.com/Walmart (Famous Visitors)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/famvisitors20210512.jpg
+  box: https://creativelicense.box.com/s/y9sqiiojgh92so4k1g9mi0vi0akmim7x
+  agency: Dept W Publicis
+  cl_role: ''
+  talent: Various talent, music, and IP
+  music: ''
+  ip: ''
+- name: Scan & Go Speed Test
+  client: Sams Club
+  video: https://creativelicense-web.s3.amazonaws.com/Sams Club_120210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-08-11 at 2.03.23
+    PM20210811.jpg
+  box: https://creativelicense.box.com/s/pktnzb7yhnsxty63c3r2xe3ye3ysfdfa
+  agency: Client Direct
+  cl_role: ''
+  talent: Usain Bolt, Allyson Felix
+  music: ''
+  ip: ''
+- name: Full Circle of Protection
+  client: ADT
+  video: https://creativelicense-web.s3.amazonaws.com/ADT_120210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/adt20210512.jpg
+  box: https://creativelicense.box.com/s/f26x5hp36ip5z8zw8969ovmt22ep2v7a
+  agency: McCann
+  cl_role: ''
+  talent: ''
+  music: WILD "All My Life"
+  ip: ''
+- name: Start Slow. Start Small.
+  client: Chase
+  video: https://creativelicense-web.s3.amazonaws.com/Chase Bank_120210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/chase_ssss20210512.jpg
+  box: https://creativelicense.box.com/s/h1p42rt75za7653qjoydfmyd58rsver0
+  agency: Droga
+  cl_role: ''
+  talent: ''
+  music: Hipjoint ft. Sherry St. Germain "Do It"
+  ip: ''
+- name: If I Could
+  client: SSA
+  video: https://creativelicense-web.s3.amazonaws.com/SSA20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/SSA-Freeman20210730.jpg
+  box: https://creativelicense.box.com/s/m5w4gofesi2p41ey3vbqphjwwu4plygv
+  agency: Sussman
+  cl_role: ''
+  talent: Morgan Freeman
+  music: ''
+  ip: ''
+- name: 'Black Friday: Place to Shop'
+  client: Walmart
+  video: https://creativelicense-web.s3.amazonaws.com/Walmart (Black-Friday)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/walmartblkfri20210512.jpg
+  box: https://creativelicense.box.com/s/fee88dcr8xrtl1wsyke6ez2dzr4k9u5w
+  agency: Burrell
+  cl_role: ''
+  talent: ''
+  music: Lizzo "Water Me"
+  ip: ''
+- name: Big Chain
+  client: Jimmy John's
+  video: https://creativelicense-web.s3.amazonaws.com/Jimmy Johns20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/jimmychains20210512.jpg
+  box: https://creativelicense.box.com/s/il86tbnfbbaidwa9io48aoyhxtl2etal
+  agency: Work In Progress
+  cl_role: ''
+  talent: Lil Jon
+  music: ''
+  ip: ''
+- name: Sentimiento de Libertad
+  client: Jeep
+  video: https://creativelicense-web.s3.amazonaws.com/Jeep (Cherokee)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/jeep_cher20210512.jpg
+  box: https://creativelicense.box.com/s/ymm94yh5hvv6ixxgglezd9rshbwzjy92
+  agency: Highdive
+  cl_role: ''
+  talent: ''
+  music: Natalia Lafourcade "Hasta la Raíz"
+  ip: ''
+- name: n/a
+  client: Xfinity
+  video: https://creativelicense-web.s3.amazonaws.com/Xfinity20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/xfinity20210512.jpg
+  box: https://creativelicense.box.com/s/qzg1dst41lbso45fqzfg6ox4l2aklrmb
+  agency: Tierney
+  cl_role: ''
+  talent: ''
+  music: Janelle Monae "Make Me Feel"
+  ip: ''
+- name: Rise Above
+  client: Cadillac
+  video: https://creativelicense-web.s3.amazonaws.com/Cadillac (Oscars)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/cadillac_rise20210512.jpg
+  box: https://creativelicense.box.com/s/sl3w6d9mg2q0mjheq8vb1nh1bwoq9tee
+  agency: Leo Burnett
+  cl_role: ''
+  talent: ''
+  music: Childish Gambino "Me and Your Mama"
+  ip: ''
+- name: J Balvin's Extraordinary Day
+  client: Google Pixel
+  video: https://creativelicense-web.s3.amazonaws.com/Google Pixel_120210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/googlepix20210512.jpg
+  box: https://creativelicense.box.com/s/svfngw1d602b72w4luvieixiasfgucat
+  agency: Client Direct
+  cl_role: ''
+  talent: J Balvin
+  music: J Balvin "No Es Justo," Willie Colón feat. Héctor Lavoe "El Día de Mi Suerte"
+  ip: ''
+- name: Legends
+  client: Jeep
+  video: https://creativelicense-web.s3.amazonaws.com/Jeep (Legends)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-08-11 at 2.06.24
+    PM20210811.jpg
+  box: https://creativelicense.box.com/s/8x9sotc9i4r4hxw4d97i2q44zk98rn6a
+  agency: Highdive
+  cl_role: ''
+  talent: ''
+  music: ''
+  ip: James Dean, Babe Ruth + more celebrity IP
+- name: Anthem
+  client: GMC
+  video: https://creativelicense-web.s3.amazonaws.com/GMC (Goodbye)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 1.20.11
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/jysv2a56e2hkryrdyhgyb8t04g9o7e3i
+  agency: Leo Burnett
+  cl_role: ''
+  talent: ''
+  music: Steam "Na Na Hey Hey Kiss Him Goodbye"
+  ip: ''
+- name: We Dress America
+  client: Walmart
+  video: https://creativelicense-web.s3.amazonaws.com/Walmart (Dress)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/walmart_dress20210512.jpg
+  box: https://creativelicense.box.com/s/lqgpie1we9cihryr2vf5pc4wkwr8xl9p
+  agency: YARD
+  cl_role: ''
+  talent: ''
+  music: 'Pharrell Williams “Freedom” '
+  ip: ''
+- name: Keep Being You
+  client: Biktarvy
+  video: https://creativelicense-web.s3.amazonaws.com/Biktarvy20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/biktarvy20210512.jpg
+  box: https://creativelicense.box.com/s/pkn1l6aktthad6daspn592crirjo2aik
+  agency: Digitas Health
+  cl_role: ''
+  talent: ''
+  music: Sharon Jones & The Dap-Kings "Matter of Time"
+  ip: ''
+- name: Bacardi Fly
+  client: Bacardi
+  agency: ''
+  talent: ''
+  music: Patrick Hernandez "Born To Be Alive"
+  ip: ''
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/yt5s.io-bacardi fly commercial(360p)20221115.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/hqdefault20221115.jpg
+- name: Open the World of Music
+  client: YouTube Music
+  video: https://creativelicense-web.s3.amazonaws.com/YouTube Music_120210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 1.07.48
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/9oazbvcxdsol6x27hiz206vosjcac92f
+  agency: Client Direct
+  cl_role: ''
+  talent: ''
+  music: The Beatles "Come Together"
+  ip: 'Kendrick Lamar, Queen, Cardi B, The Beatles, Gorillaz, Janelle Monae + more '
+- name: Dry Eyes
+  client: Eyelove
+  video: https://creativelicense-web.s3.amazonaws.com/Eyelove20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/eyelove20210512.jpg
+  box: https://creativelicense.box.com/s/yu0288y4j9sismnx4ecoozdn8z8n9wgo
+  agency: Digitas
+  cl_role: ''
+  talent: Jennifer Aniston
+  music: The Beatles "All You Need Is Love"
+  ip: ''
+- name: Future Cars
+  client: Cadillac
+  video: https://creativelicense-web.s3.amazonaws.com/Cadillac (Jetsons)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 1.27.55
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/oipqayn8rsr61smd44v09fmh0zogjvvt
+  agency: Rokkan
+  cl_role: ''
+  talent: ''
+  music: Portugal. The Man "Feel It Still"
+  ip: The Jetsons, Back to the Future + more
+- name: Be Spectacular
+  client: Spectrum
+  video: https://creativelicense-web.s3.amazonaws.com/Spectrum20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/spectrum20210512.jpg
+  box: https://creativelicense.box.com/s/w5izsrklh3unbuswz1uqbzdo76y3e2aw
+  agency: Client Direct
+  cl_role: ''
+  talent: John Stamos
+  music: ''
+  ip: ''
+- name: How Money Moves
+  client: Zelle
+  video: https://creativelicense-web.s3.amazonaws.com/Zelle20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/zelle20210512.jpg
+  box: https://creativelicense.box.com/s/w5izsrklh3unbuswz1uqbzdo76y3e2aw
+  agency: Huge
+  cl_role: ''
+  talent: Daveed Diggs
+  music: ''
+  ip: ''
+- name: 3D Holiday
+  client: Microsoft
+  video: https://creativelicense-web.s3.amazonaws.com/Microsoft (3D)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/microsoft20210512.jpg
+  box: https://creativelicense.box.com/s/di947t7lfhhwem2cqwi1v4g6g0mgezbi
+  agency: McCann
+  cl_role: ''
+  talent: ''
+  music: Rachel Platten "Better Place"
+  ip: ''
+- name: Logo Remix
+  client: GAP
+  video: https://creativelicense-web.s3.amazonaws.com/GAP (SZA)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/sza20210512.jpg
+  box: https://creativelicense.box.com/s/6o9fvkixvn9u7ehl1rrahnw5hqzxde3o
+  agency: Client Direct
+  cl_role: ''
+  talent: SZA
+  music: Thompson Twins "Hold Me Now"
+  ip: ''
+- name: KIND
+  client: KIND
+  video: https://creativelicense-web.s3.amazonaws.com/KIND20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/kind20210512.jpg
+  box: https://creativelicense.box.com/s/zef7aorevm17ut4ynxsxkd5738b5lsjg
+  agency: Huge
+  cl_role: ''
+  talent: ''
+  music: ''
+  ip: America's Funniest Home Videos clips
+- name: GMC
+  client: GMC
+  video: https://creativelicense-web.s3.amazonaws.com/GMC (Middle East)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/gmc_me20210512.jpg
+  box: https://creativelicense.box.com/s/j174oqrfe3uwbc1qaihroy3uh2nsafx5
+  agency: Leo Burnett
+  cl_role: ''
+  talent: ''
+  music: Rag'n'Bone Man "Human"
+  ip: ''
+- name: Celebration
+  client: Ciroc
+  video: https://creativelicense-web.s3.amazonaws.com/CIROC20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/ciroc20210512.jpg
+  box: https://creativelicense.box.com/s/t3whs4xamqku8wd71qi87237bx5b1yzq
+  agency: Blue Flame
+  cl_role: ''
+  talent: Sean "Diddy" Combs, French Montana, DJ Khaled + co.
+  music: ''
+  ip: ''
+- name: One is the Loneliest Number
+  client: Delta
+  video: https://creativelicense-web.s3.amazonaws.com/Delta20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/delta_one20210512.jpg
+  box: https://creativelicense.box.com/s/jnrwy89u9o6cjg2m087s146mtieqqyob
+  agency: Leo Burnett
+  cl_role: ''
+  talent: ''
+  music: Harry Nilsson “One Is the Loneliest Number"
+  ip: ''
+- name: Lean On Me
+  client: Walmart
+  video: https://creativelicense-web.s3.amazonaws.com/Walmart (Lean On Me)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/walmart_rc20210512.jpg
+  box: https://creativelicense.box.com/s/66356hcrexzwn8564d038khg2znz2iw4
+  agency: Mono
+  cl_role: ''
+  talent: ''
+  music: Bill Withers "Lean On Me"
+  ip: ''
+- name: Going to Mars
+  client: Chase
+  video: https://creativelicense-web.s3.amazonaws.com/Chase20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/chase_mars20210512.jpg
+  box: https://creativelicense.box.com/s/1v0oe3fpigmz5i1xrhfu138jeajc5zqm
+  agency: Droga
+  cl_role: ''
+  talent: ''
+  music: Norman Greenbaum “Spirit in the Sky”
+  ip: ''
+- name: Big Game
+  client: Buick
+  video: https://creativelicense-web.s3.amazonaws.com/Buick (SB)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-08-11 at 2.13.40
+    PM20210811.jpg
+  box: https://creativelicense.box.com/s/dhyme48mbrkj5wmsd5mvxgnbit01am69
+  agency: Leo Burnett
+  cl_role: ''
+  talent: Cam Newton, Miranda Kerr
+  music: ''
+  ip: ''
+- name: YouTube Music Supercut
+  client: YouTube
+  video: https://creativelicense-web.s3.amazonaws.com/YouTube20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 1.25.45
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/8wq1bgue54jso7s4bsyl8v7jfcxh1npf
+  agency: Co-Collective
+  cl_role: ''
+  talent: ''
+  music: The Chemical Brothers "Go"
+  ip: All IP in spot including Christopher Walken, Bob Dylan, Childish Gambino, Justin
+    Bieber
+- name: Kid Drinks
+  client: 1800 Tequila
+  video: https://creativelicense-web.s3.amazonaws.com/1800 Tequila20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 1.30.39
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/p4vinsbrrrra19gnqsg02b0nrqwugfbp
+  agency: VIA
+  cl_role: ''
+  talent: Ray Liotta
+  music: Tame Impala "Bold Arrow of Time"
+  ip: ''
+- name: Ensemble
+  client: Lincoln
+  video: https://creativelicense-web.s3.amazonaws.com/Lincoln (MM)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/ens20210512.jpg
+  box: https://creativelicense.box.com/s/gef1vl3u4g2c4lstrqr2cm6igpunedje
+  agency: Hudson Rouge
+  cl_role: ''
+  talent: ''
+  music: 'Sharon Jones & The Dap-Kings “Midnight Rider” '
+  ip: ''
+- name: American Snapshots
+  client: Chevrolet
+  video: https://creativelicense-web.s3.amazonaws.com/Chevrolet (Snapshots)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 1.33.55
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/k258qgfsg9ae7aqe2ps8phdtgxibsnsz
+  agency: Campbell Ewald
+  cl_role: ''
+  talent: ''
+  music: ''
+  ip: All IP including Marilyn Monroe, Martin Luther King Jr., Muhammed Ali, James
+    Dean, Jimi Hendrix
+- name: Zooey
+  client: Cotton
+  video: https://creativelicense-web.s3.amazonaws.com/1.Zooey 3020210802.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-08-02 at 6.46.09
+    PM20210802.jpg
+  box: https://creativelicense.box.com/s/i47i6t1cklinvje0p83lks5jab5yvrhc
+  agency: DDB
+  cl_role: ''
+  talent: Zooey Deschanel, Hayden Panettiere, Emmy Rossum, Miranda Lambert + more
+    campaigns
+  music: ''
+  ip: ''
+- name: Baxter
+  client: Walmart
+  video: https://creativelicense-web.s3.amazonaws.com/Walmart (Craig Robinson)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/walmart_craig20210512.jpg
+  box: https://creativelicense.box.com/s/a6hdxijvilrgve3zpamg9yqui7a58o0k
+  agency: Saatchi
+  cl_role: ''
+  talent: Craig Robinson
+  music: ''
+  ip: ''
+- name: Imagine Yourself
+  client: Buick
+  video: https://creativelicense-web.s3.amazonaws.com/Buick (Ellie Kemper)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/buick_ellie20210512.jpg
+  box: https://creativelicense.box.com/s/czfphhl84sbb3jyzltpamly02z2xbtiz
+  agency: Leo Burnett
+  cl_role: ''
+  talent: Ellie Kemper
+  music: ''
+  ip: ''
+- name: Own the First Day
+  client: Walmart
+  video: https://creativelicense-web.s3.amazonaws.com/Walmart (Whitesnake)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/walmart_firstday20210512.jpg
+  box: https://creativelicense.box.com/s/ag6fnj0pghgljlq4wl7rqml3it4baa2f
+  agency: Saatchi
+  cl_role: ''
+  talent: ''
+  music: Whitesnake “Here I Go Again”
+  ip: ''
+- name: Born Free
+  client: Chevrolet
+  video: https://creativelicense-web.s3.amazonaws.com/Chevrolet (Kid Rock)_120210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 1.39.08
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/uoa478zpkg3qvf28lwhnpiay4vu6ojnl
+  agency: Commonwealth
+  cl_role: ''
+  talent: Kid Rock
+  music: Kid Rock "Born Free"
+  ip: ''
+- name: Ready to Shine
+  client: Tropicana
+  video: https://creativelicense-web.s3.amazonaws.com/Tropicana (Good Day)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/tropicana_goodday20210512.jpg
+  box: https://creativelicense.box.com/s/03t3zi8s56enrcrrzu9dz0izgmiqza8d
+  agency: PepsiCo
+  cl_role: ''
+  talent: Ingrid Michaelson
+  music: Ingrid Michaelson “Good Day Sunshine” (The Beatles cover)
+  ip: ''
+- name: At Last
+  client: Cadillac
+  video: https://creativelicense-web.s3.amazonaws.com/Cadillac20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/futurecars20210512.jpg
+  box: https://creativelicense.box.com/s/zygw0cc8jhqn85zkurg1sf2ptfqjfwng
+  agency: Rokkan
+  cl_role: ''
+  talent: ''
+  music: Etta James "At Last"
+  ip: ''
+- name: Generation Gap
+  client: GAP
+  video: https://creativelicense-web.s3.amazonaws.com/Gap (Generation)_120210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 1.43.54
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/uji3j1w3pq03potffnsxe7gc3rbyay8m
+  agency: Client Direct
+  cl_role: ''
+  talent: Naomi Campbell, Elizabeth Jagger, Coco Moore, Evan Ross, Rumer Wilson, Chelsea
+    Tyler + more
+  music: ''
+  ip: ''
+- name: 12 Days
+  client: AB InBev
+  video: https://creativelicense-web.s3.amazonaws.com/AB InBev20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/abin20210512.jpg
+  box: https://creativelicense.box.com/s/2xgx4vlin0v588igyns77lsthdrgxczh
+  agency: Cannonball
+  cl_role: ''
+  talent: Luke Wilson, LMFAO
+  music: '"12 Days of Christmas"'
+  ip: ''
+- name: Theme Song
+  client: Chevrolet
+  video: https://creativelicense-web.s3.amazonaws.com/Chevrolet (ACDC)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 1.52.40
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/ljntki8wv5ivyrnaheis1gegkheyra3f
+  agency: Commonwealth // McCann
+  cl_role: ''
+  talent: ''
+  music: AC/DC “Back In Black”, The Carpenters “Rainy Days & Mondays,” Chuck Mangione
+    “Feels So Good”
+  ip: ''
+- name: I Feel Love
+  client: Pupa Milano
+  video: https://creativelicense-web.s3.amazonaws.com/Pupa Milano (2018)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/pupa201820210512.jpg
+  box: https://creativelicense.box.com/s/etzx4n9d9x8ip1v28bitmur7aggarfzt
+  agency: Client Direct
+  cl_role: ''
+  talent: ''
+  music: Donna Summer "I Feel Love"
+  ip: ''
+- name: Wake Up Makeup
+  client: Almay
+  video: https://creativelicense-web.s3.amazonaws.com/Almay20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/almay20210512.jpg
+  box: https://creativelicense.box.com/s/aabszltlxot4yolm605bxo89vnc96y9s`
+  agency: WME2
+  cl_role: ''
+  talent: Kate Hudson
+  music: Fire Through the Window "Do Do Do"
+  ip: ''
+- name: Best Money Saving
+  client: Expedia
+  video: https://creativelicense-web.s3.amazonaws.com/Expedia Best Money Saving Commercial20210802.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-08-02 at 6.52.19
+    PM20210802.jpg
+  box: https://creativelicense.box.com/s/b78fwfnytm4q8dhk8caekm2vw0gr8arq
+  agency: 180LA
+  cl_role: ''
+  talent: Tim Gunn, Molly Shannon, Michael Ian Black
+  music: ''
+  ip: ''
+- name: Reach Out
+  client: Delta
+  video: https://creativelicense-web.s3.amazonaws.com/Delta (Reach Out)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/delta_reachout20210512.jpg
+  box: https://creativelicense.box.com/s/tkaqyuk4ah3wxvgkrg37tyltttvng0aj
+  agency: Leo Burnett
+  cl_role: ''
+  talent: ''
+  music: The Four Tops “Reach Out I’ll Be There”
+  ip: ''
+- name: Multi-Symptom Relief
+  client: Clear Eyes
+  video: https://creativelicense-web.s3.amazonaws.com/Clear Eyes20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 1.58.48
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/185i2ufbnd4jtq5ifen23c1m7ulaqy74
+  agency: AFG
+  cl_role: ''
+  talent: Vanessa Williams
+  music: ''
+  ip: ''
+- name: On the Road with Rascal Flatts
+  client: Nexium 24HR
+  video: https://creativelicense-web.s3.amazonaws.com/Nexium20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/nexium20210512.jpg
+  box: https://creativelicense.box.com/s/4hnvzgo71gqu24bjum46ghhv7mlgefwe
+  agency: Pfizer
+  cl_role: ''
+  talent: ''
+  music: Rascal Flatts “Payback,” Rascal Flatts “Rewind”
+  ip: ''
+- name: People Love People
+  client: People
+  video: https://creativelicense-web.s3.amazonaws.com/People20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 2.00.30
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/gdj5as5x9icixv8j76ty0ufz8c4xoe3r
+  agency: Terri & Sandy
+  cl_role: ''
+  talent: ''
+  music: Bruno Mars “Just the Way You Are”
+  ip: Various celebrity photo clearances including Adam Levine, Reese Witherspoon,
+    Jennifer Lawrence, Ryan Gosling, Bradley Cooper, Channing Tatum
+- name: Go Run Mr. Quiggly
+  client: Skechers
+  video: https://creativelicense-web.s3.amazonaws.com/Skechers20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/skech20210512.jpg
+  box: https://creativelicense.box.com/s/17pyo88oe1f3u4hwc3692b5videwfiqi
+  agency: Client Direct
+  cl_role: ''
+  talent: Mark Cuban
+  music: Tone Lōc "Wild Thing"
+  ip: ''
+- name: Good Morning
+  client: Tropicana
+  video: https://creativelicense-web.s3.amazonaws.com/Tropicana20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/tropimorning20210512.jpg
+  box: https://creativelicense.box.com/s/2g2teygz78ci65wtnmom7i5bcxazp1zy
+  agency: PepsiCo
+  cl_role: ''
+  talent: ''
+  music: Gene Kelly, Debbie Reynolds and Donald O'Connor “Good Morning”
+  ip: ''
+- name: Exclusively For You
+  client: Samsung
+  video: https://creativelicense-web.s3.amazonaws.com/Samsung20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-08-11 at 6.02.49
+    PM20210811.jpg
+  box: https://creativelicense.box.com/s/m728qoio9hyv96xcxzgkxi0euepbnmlj
+  agency: RGA
+  cl_role: ''
+  talent: ''
+  music: Hudson Thames "Gimme"
+  ip: Viral UGC video clips
+- name: Grow Luscious
+  client: Revlon
+  video: https://creativelicense-web.s3.amazonaws.com/Revlon (Alba)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/revlon_alba20210512.jpg
+  box: https://creativelicense.box.com/s/gy7ik8e6mrlvgmtrqnm36ewx7gn8jb13
+  agency: Client Direct
+  cl_role: ''
+  talent: Jessica Biel
+  music: Cicada "Don't Stare at the Sun"
+  ip: ''
+- name: 'How It''s Done: Barley'
+  client: Coors
+  video: https://creativelicense-web.s3.amazonaws.com/Coors20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-08-11 at 5.57.13
+    PM20210811.jpg
+  box: https://creativelicense.box.com/s/pa711ixkvu9fvds8hc2vxausm8m9c8k9
+  agency: FCB
+  cl_role: ''
+  talent: Sam Elliott
+  music: ''
+  ip: ''
+- name: Suddenly I See
+  client: Seasonique
+  video: https://creativelicense-web.s3.amazonaws.com/Seasonique20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 5.04.27
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/ty1iuvwjrwqklond3fctikybx5hl3nq1
+  agency: DDB
+  cl_role: ''
+  talent: ''
+  music: KT Tunstall "Suddenly I See"
+  ip: ''
+- name: Hillbillies
+  client: Geico
+  agency: TMA
+  talent: ''
+  music: The Beverly Hillbillies Theme
+  ip: The Beverly Hillbillies, Buddy Ebsen
+  cl_role: ''
+  video: https://creativelicense-web.s3.amazonaws.com/Martin - Geico - [Beverly Hillbillies]20210802.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-08-11 at 6.00.50
+    PM20210811.jpg
+- name: n/a
+  client: Ford
+  video: https://creativelicense-web.s3.amazonaws.com/Ford20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/ford20210512.jpg
+  box: https://creativelicense.box.com/s/i5kdg6crl3xmur1d7fpmudapyvouxln4
+  agency: Zubi
+  cl_role: ''
+  talent: ''
+  music: Bomba Estereo “Soy Yo”
+  ip: ''
+- name: Happy Birthday Surprise
+  client: Alltel
+  video: https://creativelicense-web.s3.amazonaws.com/Alltell20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 5.03.07
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/p1etw099fbl297c1gbpoawmmtmjanpnj
+  agency: The Martin Agency
+  cl_role: ''
+  talent: Faith Hill
+  music: ''
+  ip: ''
+- name: Romance
+  client: Geico
+  video: https://creativelicense-web.s3.amazonaws.com/Geico20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/geico20210512.jpg
+  box: https://creativelicense.box.com/s/dtuodpwnus9kd41wolcu06muwjjsmxwt
+  agency: The Martin Agency
+  cl_role: ''
+  talent: ''
+  music: '"Sometimes When We Touch"'
+  ip: ''
+- name: Dinner Party
+  client: Electrolux
+  video: https://creativelicense-web.s3.amazonaws.com/Electrolux20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/electrolux20210512.jpg
+  box: https://creativelicense.box.com/s/sv9b0fabn003gmnysn3xmin4x4vg7gtd
+  agency: DDB
+  cl_role: ''
+  talent: Kelly Ripa
+  music: '"Bewitched (Theme)"'
+  ip: ''
+- name: Subaru Outback 2.5i AWD
+  client: Subaru
+  video: https://creativelicense-web.s3.amazonaws.com/Subaru20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-08-11 at 6.04.45
+    PM20210811.jpg
+  box: https://creativelicense.box.com/s/ynj7lixx69an7yoqlfd9yw69i108gd4x
+  agency: DDB
+  cl_role: ''
+  talent: ''
+  music: Sheryl Crow "Everyday Is A Winding Road"
+  ip: ''
+- name: Edif’cio Sky
+  client: SKY Brasil
+  video: https://creativelicense-web.s3.amazonaws.com/Sky Brasil20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/sky20210512.jpg
+  box: https://creativelicense.box.com/s/n2px8z0eaowpgfnch5rxd8n60ad4o60o
+  agency: FCB Brasil
+  cl_role: ''
+  talent: ''
+  music: '"Ol Man Mose"'
+  ip: ''
+- name: Lean on Me
+  client: Brawny
+  video: https://creativelicense-web.s3.amazonaws.com/Brawny20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/brawny20210512.jpg
+  box: https://creativelicense.box.com/s/uekgnk569hx5dus6qavrnxlfzjx8bkrs
+  agency: DDB
+  cl_role: ''
+  talent: ''
+  music: Bill Withers "Lean On Me"
+  ip: ''
+- name: Mmms
+  client: Lipton
+  video: https://creativelicense-web.s3.amazonaws.com/Lipton Tea20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 2.24.11
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/kh4qmwn3llg6z16fpppx73ctihy3k5iq
+  agency: DDB
+  cl_role: ''
+  talent: ''
+  music: Thurston Harris “Little Bitty Pretty One”
+  ip: ''
+- name: Anthem
+  client: Timberland
+  video: https://creativelicense-web.s3.amazonaws.com/Timberland20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/timberland20210512.jpg
+  box: https://creativelicense.box.com/s/s4u2qbckchszvj9xrowfjvqo2c2rot0s
+  agency: The Martin Agency
+  cl_role: ''
+  talent: ''
+  music: Cat Stevens "The Wind"
+  ip: ''
+- name: Sled
+  client: Suzuki
+  video: https://creativelicense-web.s3.amazonaws.com/Suzuki20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 2.37.35
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/mnhftjktakwpoiiez2uqb3dg195kw88h
+  agency: Colby & Partners
+  cl_role: ''
+  talent: ''
+  music: 50 Cent "Movin' On Up"
+  ip: ''
+- name: I'm Coming Out
+  client: Planters
+  video: https://creativelicense-web.s3.amazonaws.com/Planters20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 2.25.51
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/ebo7zo7n0swm718wd8z8mp95agevbhzr
+  agency: FCB
+  cl_role: ''
+  talent: ''
+  music: Diana Ross "I'm Coming Out"
+  ip: ''
+- name: ColorSilk
+  client: Revlon
+  video: https://creativelicense-web.s3.amazonaws.com/Revlon20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 2.28.07
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/l3mxdhs0vkk5cxt7dj4z6pl7zw0fy7ho
+  agency: Client Direct
+  cl_role: ''
+  talent: Jessica Alba
+  music: ''
+  ip: ''
+- name: Playground
+  client: 7UP
+  video: https://creativelicense-web.s3.amazonaws.com/7UP20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 2.49.13
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/81na940q3y55he8yt904n2543rvb9q6o
+  agency: Young & Rubicam
+  cl_role: ''
+  talent: Kelly Ripa, Regis Philbin
+  music: ''
+  ip: ''
+- name: n/a
+  client: Pupa Milano
+  video: https://creativelicense-web.s3.amazonaws.com/Pupa Milano20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/puta20210512.jpg
+  box: https://creativelicense.box.com/s/81na940q3y55he8yt904n2543rvb9q6o
+  agency: Client Direct
+  cl_role: ''
+  talent: ''
+  music: Blackbird Blackbird “Tangerine Sky”
+  ip: ''
+- name: A Boy's Dream
+  client: Chevrolet
+  video: https://creativelicense-web.s3.amazonaws.com/Chevrolet (Corvette)20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 2.53.33
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/uifsyohvqmbdz6bh6ed51pgypfi8ktbn
+  agency: Campbell Ewald
+  cl_role: ''
+  talent: ''
+  music: The Rolling Stones "Jumpin' Jack Flash"
+  ip: ''
+- name: Hit the Clubs
+  client: Michelob
+  video: https://creativelicense-web.s3.amazonaws.com/Michelob20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 2.56.30
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/uifsyohvqmbdz6bh6ed51pgypfi8ktbn
+  agency: Cannonball
+  cl_role: ''
+  talent: Sergio Garcia, Angie Harmon
+  music: ''
+  ip: ''
+- name: Major Tom
+  client: Lincoln
+  video: https://creativelicense-web.s3.amazonaws.com/Lincoln20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 2.58.18
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/eej8emqw90bmwe4nbxefnqbyd8k28usn
+  agency: GTB
+  cl_role: ''
+  talent: ''
+  music: Shiny Toy Guns "Major Tom"
+  ip: ''
+- name: Picture Book
+  client: Hewlett-Packard
+  video: https://creativelicense-web.s3.amazonaws.com/Hewlett Packard20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/hp20210512.jpg
+  box: https://creativelicense.box.com/s/g3av91ekyirhnqmbwn9tn6goh7wx1gdp
+  agency: Goodby Silverstein & Partners
+  cl_role: ''
+  talent: ''
+  music: The Kinks "Picture Book"
+  ip: ''
+- name: Everywhere
+  client: Gatorade
+  video: https://creativelicense-web.s3.amazonaws.com/Gatorade20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 4.50.29
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/3hs4gbogxsddy9blcw2gq9ameojwo1bn
+  agency: Element 79
+  cl_role: ''
+  talent: LL Cool J
+  music: ''
+  ip: ''
+- name: Maniac
+  client: Kia
+  video: https://creativelicense-web.s3.amazonaws.com/Kia20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-09-13 at 1.55.10
+    PM20210913.jpg
+  box: https://creativelicense.box.com/s/t0ml8aquf23tx95abewm4mud8ge2a1is
+  agency: David & Goliath
+  cl_role: ''
+  talent: ''
+  music: Flashdance "Maniac"
+  ip: ''
+- name: Make Your Move
+  client: Crestor
+  video: https://creativelicense-web.s3.amazonaws.com/Crestor20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/crestor20210512.jpg
+  box: https://creativelicense.box.com/s/dibxb5c3j86qmifis49hr36ii2xif1e8
+  agency: Astra Zeneca
+  cl_role: ''
+  talent: ''
+  music: War "Low Rider"
+  ip: ''
+- name: Intel Inside
+  client: Intel
+  video: https://creativelicense-web.s3.amazonaws.com/Intel20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 4.55.02
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/kvrd2uny6asv4494tnzxo59b91mmwcga
+  agency: Euro RSCG
+  cl_role: ''
+  talent: ''
+  music: Frank Sinatra "Fly Me to the Moon"
+  ip: ''
+- name: Karaoke Kab
+  client: Lipton
+  video: https://creativelicense-web.s3.amazonaws.com/Lipton20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/liptoncab20210512.jpg
+  box: https://creativelicense.box.com/s/xa1sbaqt6zka24dnb06r4aacxsx4xvps
+  agency: DDB
+  cl_role: ''
+  talent: ''
+  music: The B-52's "Love Shack"
+  ip: ''
+- name: The Big Day
+  client: Buick
+  video: https://creativelicense-web.s3.amazonaws.com/Buick_120210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/buick_bd20210512.jpg
+  box: https://creativelicense.box.com/s/jujzlr1eo0rjcxb1mj1ldq6womj7s20c
+  agency: Leo Burnett
+  cl_role: ''
+  talent: Odell Beckham Jr., Emily Ratajkowski
+  music: ''
+  ip: ''
+- name: Hold Your Head Up
+  client: Scottrade
+  video: https://creativelicense-web.s3.amazonaws.com/Scottrade20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/scotttrade20210512.jpg
+  box: https://creativelicense.box.com/s/c6dujjetchuywuvszij14f8emmhbj6fw
+  agency: Cannonball
+  cl_role: ''
+  talent: ''
+  music: Argent "Hold Your Head Up"
+  ip: ''
+- name: 'Elegant Medleys: Chef'
+  client: Fancy Feast
+  video: https://creativelicense-web.s3.amazonaws.com/Fancy Feast20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/fancyfeast20210512.jpg
+  box: https://creativelicense.box.com/s/oyspbtxdj3oetp73ry0s8jn3h6cqgax0
+  agency: AFG
+  cl_role: ''
+  talent: ''
+  music: '"It Had to Be You"'
+  ip: ''
+- name: Lenovo Internal Video
+  client: Lenovo
+  video: https://creativelicense-web.s3.amazonaws.com/Lenovo20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/lenovo20210512.jpg
+  box: https://creativelicense.box.com/s/zfw6tor0grolo9ne2xyygkst1e9cjb78
+  agency: Client Direct
+  cl_role: ''
+  talent: ''
+  music: Goldfrapp "Oh La La"
+  ip: ''
+- name: Shine On
+  client: SunnyD
+  video: https://creativelicense-web.s3.amazonaws.com/SunnyD20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/Screen Shot 2021-07-30 at 4.59.02
+    PM20210730.jpg
+  box: https://creativelicense.box.com/s/ntv0gqeqpwnfosb5sfp4optlh0hj6flp
+  agency: Client Direct
+  cl_role: ''
+  talent: Martina McBride
+  music: ''
+  ip: ''
+- name: Creative License Reel
+  client: n/a
+  video: https://creativelicense-web.s3.amazonaws.com/CL Reel20210512.mp4
+  image: https://creativelicense-web.s3.amazonaws.com/creativelicense_meta20210512.png
+  agency: ''
+  cl_role: ''
+  talent: ''
+  music: ''
+  ip: ''

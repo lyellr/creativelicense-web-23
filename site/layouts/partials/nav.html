@@ -1,19 +1,67 @@
-<nav class="overflow-x-scroll overflow-x-visible-ns flex justify-between items-center center bg-white divider-grey relative">
 
-	<!-- Logo -->
-	<a href="/" class="pa3 db mr4 h-100 w3 flex-none">
-		<img src="/img/logo.svg" alt="Kaldi logo" class="br0 db mb0 w-100"/>
-	</a>
+<div class="header">
 
-	<!-- Primary Nav -->
-	<ul class="flex b grey-3">
-		<li><a href="/products" class="pa3 no-underline db">Products</a></li>
+  <svg viewBox="0 0 100 80" width="40" height="40" class="header-item-burger" onclick="open_menu_mobile()">
+    <rect width="80" height="10"></rect>
+    <rect y="30" width="80" height="10"></rect>
+    <rect y="60" width="80" height="10"></rect>
+  </svg>
 
-		<li><a href="/values" class="pa3 no-underline db">Values</a></li>
+  <div class="header-item-logo" onclick="window.open({{ "/" | relURL }}, '_self')"></div>
+  <div class="header-item-nav text-nav">
+    <a href={{ "/" | relURL }} id="nav-home"><span>HOME</span></a>
+    <a href={{ "/work" | relURL }} id="nav-work"><span>WORK</span></a>
+    <a href={{ "company" | relURL }} id="nav-company"><span>OUR COMPANY</span></a>
+    <a href={{ "/contact" | relURL }} id="nav-contact"><span>CONTACT</span></a>
+  </div>
 
-		<li><a href="/post" class="pa3 no-underline db">Blog</a></li>
+  <div class="header-item-logo-m" onclick="window.location.href={{ "/" | relURL }};"></div>
 
-		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
-	</ul>
+</div>
 
-</nav>
+<div id="nav_fs">
+    <div class="nav_fs_links">
+      <a href={{ "/" | relURL }}>HOME</a>
+      <a href={{ "/work" | relURL }}>WORK</a>
+      <a href={{ "/company" | relURL }}>COMPANY</a>
+      <a href={{ "/contact" | relURL }}>CONTACT</a>
+    </div>
+</div>
+
+<div id="blurry_bg"></div>
+
+<script>
+	function open_menu_mobile() {
+	  $("#nav_fs").fadeIn({
+	    start: function () {
+	      $(this).css({
+	        display: "flex"
+	      })
+	    }
+	  });
+
+	  $('body').bind('touchmove', function(e){e.preventDefault()});
+	  $('body').addClass('stop-scrolling');
+	  $('#blurry_bg').show();
+	  document.getElementById('nav_fs').addEventListener('click', close_menu_mobile);
+	  document.onkeydown = function(evt) {
+	      evt = evt || window.event;
+	      var isEscape = false;
+	      if ("key" in evt) {
+	          isEscape = (evt.key == "Escape" || evt.key == "Esc");
+	      } else {
+	          isEscape = (evt.keyCode == 27);
+	      }
+	      if (isEscape) {
+	          close_menu_mobile();
+	      }
+	  };
+	}
+
+	function close_menu_mobile() {
+	  $("#nav_fs").fadeOut();
+	  $('body').unbind('touchmove');
+	  $('body').removeClass('stop-scrolling');
+	  $('#blurry_bg').fadeOut();
+	}
+</script>

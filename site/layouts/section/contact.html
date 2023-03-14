@@ -1,24 +1,104 @@
+{{ define "head" }}
+<style>
+
+  body {
+    background-color: white;
+  }
+
+  .text-nav a {
+    color: black;
+  }
+
+  .header-item-logo {
+    background-image: url('../svg/logo_dark_text.svg');
+    width: 210px;
+    height: 64px;
+  }
+  
+  .header {
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom: 1px solid rgba(0, 0, 0, .5);
+  }
+
+  .contact-container {
+    min-height: calc(100vh - 600px);
+    margin: 0 auto 100px auto;
+    padding-top: 150px;
+    width: 1100px;
+    max-width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .contact-content p {
+    font-size: 18px;
+  }
+
+  .contacts {
+    padding-top: 50px;
+    display: inline-flex;
+    flex-wrap: wrap;
+  }
+
+  .contact {
+    padding: 0 25px 25px 0;
+  }
+
+</style>
+{{end}}
 {{ define "main" }}
+    <body>
 
-<div class="ph3 bg-off-white">
-	<div class="center mw6 pv3">
+      <div id="container">
 
-		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
+        {{ partial "nav.html" . }}
 
-		{{ .Content }}
+        <div class="contact-container">
+          <div class="contact-content text-content">
+            <div class="text-heading2">{{ .Params.heading }}</div><br/>
+            <div style="max-width:80%">{{ .Content }}</div>
+            <!--<br/>
+            <div style="display: inline-flex;">
+              <div>
+                <strong>{{ .Site.Data.contact_info.name }}</strong>
+                <p>
+                  {{ .Site.Data.contact_info.address_line1 }}<br/>
+                  {{ .Site.Data.contact_info.address_line2 }}<br/>
+                </p>
+              </div>
+              <div>
+                <a href="https://goo.gl/maps/T1vYuyd5bB9RUZDUA" target="_blank"><img src="../img/cl_office_map.jpg" style="height: 150px; padding: 5px 5px 0px 40px"/></a>
+              </div>
+            </div>
+            <br/>
+            <a href="tel: {{ .Site.Data.contact_info.phone_raw }}">{{ .Site.Data.contact_info.phone }}</a>-->
 
-		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
-				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
-				</div>
-			{{ end }}
-		</div>
+            <div class="contacts">
+              {{ range $index, $contact := .Params.contacts }}
+                {{ $index := add $index 1 }}
+                <div class="contact">
+                  <strong>{{$contact.name}}</strong>
+                  <p>
+                    {{$contact.title}}<br/>
+                    <a href="mailto:{{$contact.email}}">{{$contact.email}}</a>
+                  </p>
+                </div>
+              {{end}}
+            </div>
+          </div>
+        </div>
 
-		{{ partial "contact-form" . }}
+        {{ partial "footer.html" . }}
 
-	</div>
-</div>
+      </div>
 
-{{ end }}
+      <script src="https://code.jquery.com/jquery-3.5.1.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+
+      <script type="text/javascript">
+        $('#nav-contact').addClass('nav-selected');
+      </script>
+
+
+    </body>
+{{end}}

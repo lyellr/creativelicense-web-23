@@ -1,6 +1,71 @@
+{{ define "head" }}
+<style>
+
+  body {
+    background-color: white;
+  }
+
+  .text-nav a {
+    color: black;
+  }
+
+  .header-item-logo {
+    background-image: url('../svg/logo_dark_text.svg');
+    width: 210px;
+    height: 64px;
+  }
+  
+  .header {
+    background-color: rgba(255, 255, 255, 1);
+    border-bottom: 1px solid rgba(0, 0, 0, .5);
+  }
+
+  .contact-container {
+    min-height: calc(100vh - 600px);
+    margin: 0 auto 100px auto;
+    padding-top: 150px;
+    width: 1100px;
+    max-width: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .contact-content p {
+    font-size: 18px;
+  }
+
+  .contacts {
+    padding-top: 50px;
+    display: inline-flex;
+    flex-wrap: wrap;
+  }
+
+  .contact {
+    padding: 0 25px 25px 0;
+  }
+
+</style>
+{{end}}
 {{ define "main" }}
+    <body>
 
-<h1>Nothing Here...</h1>
-<h3><a href="{{ "/" | relURL }}">Go Home</a></h3>
+      <div id="container">
 
-{{ end }}
+        {{ partial "nav.html" . }}
+
+        <div class="contact-container">
+          <div class="contact-content text-content">
+            <div class="text-heading2">404</div><br/>
+            <div style="max-width:80%">The page you were looking for could not be found. Return <a href="/">home</a>.</div>
+            <br/>
+          </div>
+        </div>
+
+        {{ partial "footer.html" . }}
+
+      </div>
+
+
+    </body>
+{{end}}
